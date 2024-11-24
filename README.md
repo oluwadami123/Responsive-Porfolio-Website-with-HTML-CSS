@@ -11,7 +11,7 @@ This website was built using **HTML 5** and **CSS 3** and a sprinkle of **JavaSc
 
 # Tools Used
 - **HTML 5**, **CSS 3** & **JavaScript**: Used HTML 5 to structure the web page CSS 3 to style and to design and Javascript to add some functionality to the web page.
-- **VS Code**: Utilized VS Code as my code editor.
+- **VS Code**: Utilized VS Code for my code editor.
 
 # Running the Application
 Click [here](https://cool-seahorse-c72d7c.netlify.app/#about) to view the Web application
